@@ -1,1 +1,3 @@
-# Case-study-4-solutions
+# 🏦 Data Bank: Solutions
+
+💻 Work performed on Azure Data Studio 💻
